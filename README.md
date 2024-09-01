@@ -6,10 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Dhammika-Mahendra/Dhammika-Mahendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 ## My Projects
 ### Public Repositories
 - Project A: Description of Project A.
@@ -20,4 +16,3 @@ You can click the Preview link to take a look at your changes.
 - **Project Y**: A private project involving mobile app development with Flutter.
 - **Project Z**: A private game development project using Unity
 
---->
