@@ -8,11 +8,12 @@
 
 ## My Projects
 ### Public Repositories
-- Project A: Description of Project A.
-- Project B: Description of Project B.
+- **Medicare Hub**: Description of Project A.
 
 ### Private Repositories
-- **Project X**: A private project focused on advanced web development techniques.
-- **Project Y**: A private project involving mobile app development with Flutter.
-- **Project Z**: A private game development project using Unity
+- **[GeoGrid SL][1]**: A private project focused on advanced web development techniques.
+- **[Terrascript][2]**: A private project involving mobile app development with Flutter.
+- **Moraspirit sports live scores**: A private game development project using Unity
 
+[1]:https://geogrid-8ki2lfqm7-dhammika-mahendras-projects.vercel.app/
+[2]:https://terra-script-m6kws0t2h-dhammika-mahendras-projects.vercel.app/
