@@ -1,6 +1,7 @@
 ## My Projects
 ### Public Repositories
 - **Medicare Hub**:  A web app that can be used to manage the medication process and the crew of a small-scale medical center.
+- **Lexo-loot**: A mobile app as a custom vocabulary tracker (ongoing project) 
 
 ### Private Repositories
 - **[GeoGrid SL][1]**: A web app that can generate a color-scaled district map of Sri Lanka according to a given data set. :link:[visit][2]
