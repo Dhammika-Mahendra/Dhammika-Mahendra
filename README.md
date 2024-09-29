@@ -1,6 +1,6 @@
 ## My Projects
 
-- **[Medicare Hub][5]**:  A web app that can be used to manage the medication process and the crew of a small-scale medical center. :link[visit][6]
+- **[Medicare Hub][5]**:  A web app that can be used to manage the medication process and the crew of a small-scale medical center. :link:[visit][6]
 - **Lexo-loot**: A mobile app as a custom vocabulary tracker (ongoing project) 
 - **[GeoGrid SL][1]**: A web app that can generate a color-scaled district map of Sri Lanka according to a given data set. :link:[visit][2]
 - **[Terrascript][3]**: A web app can simulate, teach, and explain various phenomena during Earth's orbital movement. :link:[visit][4]
