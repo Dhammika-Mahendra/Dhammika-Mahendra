@@ -5,7 +5,7 @@
 - **[GeoGrid SL][1]**: A web app that can generate a color-scaled district map of Sri Lanka according to a given data set. :link:[visit][2]
 - **[Terrascript][3]**: A web app can simulate, teach, and explain various phenomena during Earth's orbital movement. :link:[visit][4]
 
-- **[Integrated Lab Supportive System][7]**:  A device that brings fundamental measurement functionalities needed in a chemical laboratory into a singular, unified instrument.
+- **[Integrated Lab Supportive System][7]**: (hardware)  A device that brings fundamental measurement functionalities needed in a chemical laboratory into a singular, unified system.
 
 ### contributions
 - **Moraspirit sports live scores**: An official site maintained by MoraSpirit where scores of inter-university games are displayed. 
