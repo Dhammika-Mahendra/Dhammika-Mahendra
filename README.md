@@ -6,7 +6,8 @@
 
 - **[Integrated Lab Supportive System][7]**: (hardware)  A device that brings fundamental measurement functionalities needed in a chemical laboratory into a singular, unified system.
 - **Lexo-loot**: A mobile app that can beused as a custom vocabulary tracker (ongoing project)
-- **Taggy**: A customizable webpage bookmark manager (ongoing project) 
+- **Taggy**: A customizable webpage bookmark manager (ongoing project)
+- **[Agrarian][8]** : A shopping platform for selling fruits & vegetables, a springboot microservices application. 
 
 ### contributions
 - **Moraspirit sports live scores**: An official site maintained by MoraSpirit where scores of inter-university games are displayed. 
@@ -18,3 +19,4 @@
 [5]:https://www.linkedin.com/posts/yasiru-ramosh-577377240_softwaredevelopment-medicalmanagementsystem-ugcPost-7221385037009543168-UtR_?utm_source=share&utm_medium=member_desktop
 [6]:https://medicare-hub-front-21j6.vercel.app/
 [7]:https://www.linkedin.com/posts/dhammika-mahendra-2812712ab_academicmilestone-teamwork-iot-activity-7156192286404476928-iUY0?utm_source=share&utm_medium=member_desktop
+[8]:https://github.com/EAD-Project-SynTec
