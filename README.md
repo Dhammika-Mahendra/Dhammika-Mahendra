@@ -7,6 +7,7 @@
 - **[Integrated Lab Supportive System][7]**: (hardware)  A device that brings fundamental measurement functionalities needed in a chemical laboratory into a singular, unified system.
 - **Lexo-loot**: A mobile app that can beused as a custom vocabulary tracker (ongoing project)
 - **Taggy**: A customizable webpage bookmark manager (ongoing project)
+- **Doodle**: A scribbling platform like excalidraw
 - **[Agrarian][8]** : A shopping platform for selling fruits & vegetables, a springboot microservices application. 
 
 ### contributions
