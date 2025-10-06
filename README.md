@@ -10,7 +10,8 @@
 - **[Agrarian][8]** : A shopping platform for selling fruits & vegetables, a springboot microservices application. 
 
 ### contributions
-- **Moraspirit sports live scores**: An official site maintained by MoraSpirit where scores of inter-university games are displayed. 
+- **Moraspirit sports live scores**: An official site maintained by MoraSpirit where scores of inter-university games are displayed.
+- **CEB power trading system**: An internal system used by the Ceylon Electricity Board for accounting the power trading with distribution divisions
 
 [1]:https://www.linkedin.com/posts/dhammika-mahendra-2812712ab_nextjs-typescript-tailwindcss-activity-7208184550756089856-GJr0?utm_source=share&utm_medium=member_desktop
 [2]:https://geogrid-8ki2lfqm7-dhammika-mahendras-projects.vercel.app/
