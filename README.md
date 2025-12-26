@@ -8,7 +8,9 @@
 - **Lexo-loot**: A mobile app that can beused as a custom vocabulary tracker (ongoing project)
 - **Taggy**: A customizable webpage bookmark manager (ongoing project)
 - **Doodle**: A scribbling platform like excalidraw
-- **[Agrarian][8]** : A shopping platform for selling fruits & vegetables, a springboot microservices application. 
+- **[Agrarian][8]** : A shopping platform for selling fruits & vegetables, a springboot microservices application.
+- **Grid Inf**: A graphical dashboard showing the electricity distribution network (higher level view) of Sri Lanka, maintained by the CEB utility network
+- **ChroniQal**: A graphical dashboard tool useful for studying the History. Domains, dynasties, events, etc., can be viewed in a way to compare and understand timeline order.
 
 ### contributions
 - **Moraspirit sports live scores**: An official site maintained by MoraSpirit where scores of inter-university games are displayed.
